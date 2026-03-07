@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Library{
+class Libraryy{
 
 
 private:
@@ -45,7 +45,7 @@ void returnbook()
         copies++;
 }
 
-void display(Library b[]){
+void display(Libraryy b[]){
 
     for(int i=0;i<3;i++)
     {
@@ -59,13 +59,13 @@ void display(Library b[]){
 int main()
 {
 
-    Library b[3];
+    Libraryy b[3];
     for(int i=0;i<3;i++)
     {
 
         b[i].addBook();
 
     }
-    Library b1;
+    Libraryy b1;
     b1.display(b);
 }
