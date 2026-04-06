@@ -1,7 +1,4 @@
-/*A digital payment company wants to develop a simple account management module for its 
-users. Each user maintains a digital wallet that allows loading money, transferring money to 
-another user, and checking the current wallet balance. 
-*/
+/*A small library wants to digitize its system to manage its collection of books.*/
 class Libraryy{
 
 private:
