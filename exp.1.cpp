@@ -1,8 +1,8 @@
-#include <iostream>
-using namespace std;
-
+/*A digital payment company wants to develop a simple account management module for its 
+users. Each user maintains a digital wallet that allows loading money, transferring money to 
+another user, and checking the current wallet balance. 
+*/
 class Libraryy{
-
 
 private:
     int bookID;
