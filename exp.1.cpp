@@ -1,4 +1,6 @@
 /*A small library wants to digitize its system to manage its collection of books.*/
+#include<iostream>
+using namespace std;
 class Libraryy{
 
 private:
