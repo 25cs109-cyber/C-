@@ -1,3 +1,9 @@
+/*A local construction company frequently deals with rectangular plots and structures of 
+varying dimensions. To streamline their planning and estimation processes, the company 
+requires a simple system to manage and analyze rectangular shapes efficiently. 
+The system must handle multiple rectangles, each with distinct dimensions. For each 
+rectangle, the length and width need to be defined and stored securely.*/
+
 #include<iostream>
 using namespace std;
 
